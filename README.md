@@ -20,14 +20,18 @@ This web application shows a list of movies and allows users to search and filte
 
 ## Features
 👉 Movie List
-<img src="https://github.com/user-attachments/assets/7036b6ab-f5ec-46de-9466-29a1041c0cf8" alt="Screenshot of movie list" width="200">
+<img src="https://github.com/user-attachments/assets/7036b6ab-f5ec-46de-9466-29a1041c0cf8" alt="Screenshot of movie list" width="100%">
+
 👉 Search Movie
-<img src="https://github.com/user-attachments/assets/b1cee123-ffc6-4474-bcf6-a61e4b040f5f" alt="Screenshot of search" width="200">
+<img src="https://github.com/user-attachments/assets/b1cee123-ffc6-4474-bcf6-a61e4b040f5f" alt="Screenshot of search" width="100%">
+
 👉 Filter with genre and rating
-<img src="https://github.com/user-attachments/assets/b8cd4df0-e40e-4cb4-a293-0d7bf1cd20dc" alt="Screenshot of genre filter" width="200">
-<img src="https://github.com/user-attachments/assets/f25c9dbe-15da-46c8-9afb-32ebbbf27529" alt="Screenshot of rating filter" width="200">
+<img src="https://github.com/user-attachments/assets/b8cd4df0-e40e-4cb4-a293-0d7bf1cd20dc" alt="Screenshot of genre filter" width="100%">
+
+<img src="https://github.com/user-attachments/assets/f25c9dbe-15da-46c8-9afb-32ebbbf27529" alt="Screenshot of rating filter" width="100%">
+
 👉 Add and remove from Watchlist
-<img src="https://github.com/user-attachments/assets/67415d8a-5f0d-409b-81e3-c56e333795ee" alt="Screenshot of rating filter" width="200">
+<img src="https://github.com/user-attachments/assets/67415d8a-5f0d-409b-81e3-c56e333795ee" alt="Screenshot of rating filter" width="100%">
 
 ## Steps to Run
 Follow these steps to set up the project locally on your machine.
