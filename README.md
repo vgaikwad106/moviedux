@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# MOVIEDUX - A movie finder web application!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built step-by-step as a part of a React course I did.
 
-## Available Scripts
+## 📋 Table of Contents
+1. Introduction
+2. Tech Stack
+3. Features
+4. Steps to Run
 
-In the project directory, you can run:
 
-### `npm start`
+## Introduction
+This web application shows a list of movies and allows users to search and filter movies. It also allows users to add and remove movies in watchlist. This project was created in React and also has some UI and technical enhancements I did to improve the user experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tech Stack
+1. React
+2. JavaScript
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
+👉 Movie List
+<img src="https://github.com/user-attachments/assets/7036b6ab-f5ec-46de-9466-29a1041c0cf8" alt="Screenshot of movie list" width="200">
+👉 Search Movie
+<img src="https://github.com/user-attachments/assets/b1cee123-ffc6-4474-bcf6-a61e4b040f5f" alt="Screenshot of search" width="200">
+👉 Filter with genre and rating
+<img src="https://github.com/user-attachments/assets/b8cd4df0-e40e-4cb4-a293-0d7bf1cd20dc" alt="Screenshot of genre filter" width="200">
+<img src="https://github.com/user-attachments/assets/f25c9dbe-15da-46c8-9afb-32ebbbf27529" alt="Screenshot of rating filter" width="200">
+👉 Add and remove from Watchlist
+<img src="https://github.com/user-attachments/assets/67415d8a-5f0d-409b-81e3-c56e333795ee" alt="Screenshot of rating filter" width="200">
 
-### `npm run build`
+## Steps to Run
+Follow these steps to set up the project locally on your machine.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
+Make sure you have the following installed on your machine:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Git
+- Node.js
+- npm (Node Package Manager)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Cloning the Repository
 
-### `npm run eject`
+`git clone https://github.com/vgaikwad106/moviedux.git
+cd moviedux`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you did not run, expo upgrade, then install the project dependencies manually using npm:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+`npm install`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Running the Project
 
-## Learn More
+`npm start`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
